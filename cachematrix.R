@@ -6,6 +6,7 @@
 # This function takes the matrix x and computes its inverse then creates a list
 # to store it. This way the following function cacheSolve will be able to 
 # check if the inverse has been previously computed and use the cached matrix
+# hope 
 
 makeMatrix <- function(x = matrix()){
   m <- matrix()
